@@ -1,5 +1,0 @@
-name: assignment_egm722
-channels:
- - deaults
-dependencies:
- - python=3.8.8
