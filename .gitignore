@@ -128,11 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.TIF
-Image/full_image_test-msi.img
-Image/full_image_test-msi.rrd
-Image/full_image_test-msi_chip.img
-Image/lt05_l1tp_046028_20080907.tfw
-Image/T29UPU_20220112T113441_B02_10m.jp2
-Image/T29UPU_20220112T113441_B03_10m.jp2
-Image/T29UPU_20220112T113441_B04_10m.jp2
-Image/T29UPU_20220112T113441_B08_10m.jp2
+
